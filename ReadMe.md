@@ -11,7 +11,13 @@ Access the web page here: https://sjlimburg.github.io/Web-Design-Challenge/
 
 ## This project used bootstrap to create the dynamic web design
 
+The following resources were used in this project:
 
+  - CSS (assets/css/styles.css)
+  - Bootstrap style sheets (assets/css/bootstrap.min.css)
+  - Bootstrap jQuery CDN (https://code.jquery.com/jquery-2.1.4.min.js)
+  - Bootstrap CDN (https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js)
+  
 
 
 
